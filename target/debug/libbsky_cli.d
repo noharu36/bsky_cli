@@ -1,0 +1,1 @@
+/Users/nojimaharuki/workspace/rust/bsky_cli/target/debug/libbsky_cli.rlib: /Users/nojimaharuki/workspace/rust/bsky_cli/src/create_post.rs /Users/nojimaharuki/workspace/rust/bsky_cli/src/create_session.rs /Users/nojimaharuki/workspace/rust/bsky_cli/src/lib.rs

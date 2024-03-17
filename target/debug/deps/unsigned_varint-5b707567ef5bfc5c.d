@@ -1,0 +1,10 @@
+/Users/nojimaharuki/workspace/rust/bsky_cli/target/debug/deps/unsigned_varint-5b707567ef5bfc5c.rmeta: /Users/nojimaharuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unsigned-varint-0.7.2/src/lib.rs /Users/nojimaharuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unsigned-varint-0.7.2/src/decode.rs /Users/nojimaharuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unsigned-varint-0.7.2/src/encode.rs /Users/nojimaharuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unsigned-varint-0.7.2/src/io.rs
+
+/Users/nojimaharuki/workspace/rust/bsky_cli/target/debug/deps/libunsigned_varint-5b707567ef5bfc5c.rlib: /Users/nojimaharuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unsigned-varint-0.7.2/src/lib.rs /Users/nojimaharuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unsigned-varint-0.7.2/src/decode.rs /Users/nojimaharuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unsigned-varint-0.7.2/src/encode.rs /Users/nojimaharuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unsigned-varint-0.7.2/src/io.rs
+
+/Users/nojimaharuki/workspace/rust/bsky_cli/target/debug/deps/unsigned_varint-5b707567ef5bfc5c.d: /Users/nojimaharuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unsigned-varint-0.7.2/src/lib.rs /Users/nojimaharuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unsigned-varint-0.7.2/src/decode.rs /Users/nojimaharuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unsigned-varint-0.7.2/src/encode.rs /Users/nojimaharuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unsigned-varint-0.7.2/src/io.rs
+
+/Users/nojimaharuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unsigned-varint-0.7.2/src/lib.rs:
+/Users/nojimaharuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unsigned-varint-0.7.2/src/decode.rs:
+/Users/nojimaharuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unsigned-varint-0.7.2/src/encode.rs:
+/Users/nojimaharuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unsigned-varint-0.7.2/src/io.rs:
