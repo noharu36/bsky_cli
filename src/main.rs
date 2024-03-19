@@ -1,5 +1,6 @@
 use bsky_cli::create_session::create_session;
 use bsky_cli::create_post::create_post;
+use bsky_cli::delete_post::delete_post;
 use dialoguer::Select;
 
 #[tokio::main]
@@ -23,7 +24,7 @@ async fn main() {
 
             match selection {
                 0_usize => create_post(&login_info.name, &login_info.access_jwt).await.ok().unwrap(),
-                1_usize => println!("delete"),
+                1_usize => delete_post(&login_info.name, &login_info.access_jwt).await.ok().unwrap(),
                 2_usize => println!("profile"),
                 3_usize => println!("follower"),
                 4_usize => println!("follows"),
